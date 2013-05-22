@@ -1,3 +1,5 @@
+seq(com.github.retronym.SbtOneJar.oneJarSettings: _*)
+
 name := "wegan"
 
 version := "1.0"
